@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.system</groupId>
+  <artifactId>PlantWateringSystem</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+	  	<!-- https://mvnrepository.com/artifact/com.github.kurbatov/firmata4j -->
+		<dependency>
+	    	<groupId>com.github.kurbatov</groupId>
+	    	<artifactId>firmata4j</artifactId>
+	    	<version>2.3.8</version>
+		</dependency>
+		
+		<dependency>
+		  <groupId>com.github.fracpete</groupId>
+		  <artifactId>princeton-java-stdlib</artifactId>
+		  <version>1.0.2</version>
+		</dependency>
+	</dependencies>
+</project>
