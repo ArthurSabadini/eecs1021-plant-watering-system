@@ -3,12 +3,15 @@
 This project was created for the EECS1021 Object Oriented Programming course from Sensors to Actuators at York University, Toronto, Canada. 
 
 I used the firmata4j firmware with an Arduino Uno board to control a capacitive moisture sensor and a pump to monitor the moisture level of a plant, and open a water valve
-if the moisture level is too low. I also used the edu.princeton.cs.introcs.StdDraw package to create a moisture graph, so the moisture level can also be monitored by a user.
+if the moisture level is too low. I also used the edu.princeton.cs.introcs. The StdDraw package to create a moisture graph, so the moisture level can also be monitored by a user.
 
 The project was intended to be used as an education and assessment tool only. The video demonstration of the project can be seen in the following link [https://www.youtube.com/watch?si=b8xfoCtHZS__AAA1&v=ajDVEePGOGo&feature=youtu.be](https://www.youtube.com/watch?v=9GGUeIOOtuc)
 
 # Video Demo
 [![Watch the video](Images/circuit_driver.PNG)](https://www.youtube.com/watch?v=9GGUeIOOtuc)
+
+# Documentation
+- The project report can be found here [Project Report](./EECS1021_MinorProject_Report.pdf). It contains a description of the project, a flow chart implemented in the logic of the software design, and a listing of components and APIs used.
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=oracle&logoColor=white)
